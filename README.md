@@ -1,16 +1,16 @@
 ![](https://images.unsplash.com/photo-1561494653-744c43aed0c1?q=80&w=2694&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-##Introduction
+## Introduction
 Hi! In this repository, I will present my pet projects and projects from competitions.
 
 All the data in these projects is either from the competitions that allowed me to use the data or from open sources.
 
-#Projects
+# Projects
 Name|Description | Stack
 -----------|:-------:|:--------:
 
 
-###Tools
+### Tools
 The main tools that I used in the project:
 * The Python programming language;
   + machine learning library  [sklearn](https://www.sklearn.org/);
