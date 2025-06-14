@@ -10,7 +10,7 @@ Name|Description | Stack
 -----------|:-------:|:--------:
 
 
-### Tools
+## Tools
 The main tools that I used in the project:
 * The Python programming language;
   + machine learning library  [sklearn](https://www.sklearn.org/);
