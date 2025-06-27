@@ -1,6 +1,6 @@
 ![](https://cdn.leonardo.ai/users/4708e59d-6e7f-4384-9fdd-1378d72f575f/generations/c134897f-af68-4ec8-a410-aeaf58097905/segments/3:4:1/Flux_Dev_a_stunning_illustration_of_A_dramatic_and_realistic_i_2.jpg)
 # Project Description
-This code took the **4th** place in the 'KBTU Data Camp 2025'. 
+This code took the **5th** place in the 'KBTU Data Camp 2025'. 
 
 The contest was held on the **kaggle** platform. 
 
