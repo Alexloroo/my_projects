@@ -8,7 +8,7 @@ All the data in these projects is either from the competitions that allowed me t
 # Projects
 Name|Description | Stack
 -----------|:-------:|:--------:
-[Forecast of Aftershocks](https://github.com/) | Using the data of the first earthquake shock, it is necessary to calculate the location, time and strength of the first aftershock. This project took the 5th place in the "KBTU Data Camp 2025". | Pandas, Tensorflow, Numpy, Matpotlib
+[Forecast of Aftershocks]([https://github.com/](https://github.com/Alexloroo/my_projects/tree/d057149e491402af5ced367c7e6834da61ca7d5e/Forecast-of-aftershock)) | Using the data of the first earthquake shock, it is necessary to calculate the location, time and strength of the first aftershock. This project took the 5th place in the "KBTU Data Camp 2025". | Pandas, Tensorflow, Numpy, Matpotlib
 
 
 ## Tools
