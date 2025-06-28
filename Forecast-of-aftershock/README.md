@@ -49,3 +49,13 @@ My task is to predict the **first aftershock** for each major earthquake in the 
 ### 2. Model training
 ### 3. Visualization of the model
 ### 4. Prediction and preparation of the response
+
+
+
+<iframe 
+  src="aftershock_map.html" 
+  width="100%" 
+  height="600" 
+  frameborder="0"
+  loading="lazy">
+</iframe>
