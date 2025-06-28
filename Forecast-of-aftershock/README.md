@@ -51,5 +51,3 @@ My task is to predict the **first aftershock** for each major earthquake in the 
 ### 4. Prediction and preparation of the response
 
 
-
-[Открыть интерактивную карту](aftershock_map.html)
