@@ -52,10 +52,4 @@ My task is to predict the **first aftershock** for each major earthquake in the 
 
 
 
-<iframe 
-  src="aftershock_map.html" 
-  width="100%" 
-  height="600" 
-  frameborder="0"
-  loading="lazy">
-</iframe>
+[Открыть интерактивную карту](aftershock_map.html)
