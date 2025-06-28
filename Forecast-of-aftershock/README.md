@@ -52,4 +52,5 @@ My task is to predict the **first aftershock** for each major earthquake in the 
 ### 5. Visualization of the model
 ### 6. Prediction and preparation of the response
 
+## Data visualization in Jupyter notebook
 ![](maps.png)
