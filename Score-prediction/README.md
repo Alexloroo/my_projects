@@ -1,3 +1,5 @@
+[](https://cdn.leonardo.ai/users/4708e59d-6e7f-4384-9fdd-1378d72f575f/generations/d814952b-535f-432d-b79e-98027de7f21d/segments/3:4:1/Flux_Dev_a_stunning_illustration_of_Create_a_highquality_digit_2.jpg)
+
 # Project Description
 
 This code participated in **"KBTU Data Science Challenge 2025"** and won the **first** place.
