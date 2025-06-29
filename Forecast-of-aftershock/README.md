@@ -54,5 +54,5 @@ My task is to predict the **first aftershock** for each major earthquake in the 
 
 
 
-## Data visualization in Jupyter notebook
+## Map visualization in Jupyter notebook
 ![](maps.png)
