@@ -1,4 +1,4 @@
-![](https://unsplash.com/photos/a-person-holding-a-business-card-in-front-of-a-computer-screen-onkUUiqTU0M)
+![](https://images.unsplash.com/photo-1723587693188-52754b315b50?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 # Project Description
 
 This project predicts the **next day's closing stock price** of Microsoft using historical market data.
