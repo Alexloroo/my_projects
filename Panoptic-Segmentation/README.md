@@ -1,61 +1,46 @@
-![](https://images.unsplash.com/photo-1723587693188-52754b315b50?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-# Project Description
+![](https://cdn.prod.website-files.com/614c82ed388d53640613982e/64aeb886ca731a5fb0d40e17_mask%20r%20cnn.webp)
+# Описание проекта
 
-This project predicts the **next day's closing stock price** of Microsoft using historical market data.
+Данный проект демонстрирует **паноптическую сегментацию** изображений и видео с использованием предварительно обученной модели Detectron2, основанной на **FPN с ResNet-101**, обученной на датасете **COCO**.
 
-The data is based on daily OHLCV values and was processed using time series techniques and an LSTM neural network.
+Этот пет проект создан для тренировки использования предобученных моделей и визуализации
 
-*Made by Alexey V.*
-
-
-
-# Task Description
-
-## Purpose
-
-The objective of this project is to build a deep learning model that can **forecast the next day's closing price** of Microsoft stock, using both price-based features and technical indicators.
+*Автор: Алексей В.*
 
 
-## Columns in Dataset
+# Описание задачи
 
-**Date** — date of each observation
+## Цель
 
-**Open, High, Low, Close** — standard daily OHLC data
+Цель проекта — применить **паноптическую сегментацию** к изображениям и видеокадрам, для беспилотных автомобилей и дронов:
 
-**Volume** — trading volume
+* **"Вещи"** (things) — объекты с чёткими границами: люди, автомобили, животные и т.п.
+* **"Материи"** (stuff) — однородные области: небо, дорога, трава и т.п.
 
-Additional features created:
+Итогом является видео с наложенной разметкой, показывающее все распознанные объекты с цветовой маркировкой и подписями.
 
-* **Range** = High - Low
 
-* **Close\_Open\_Ratio** = Close / Open
+## Используемые данные и модель
 
-* **SMA\_5**, **SMA\_10**, **SMA\_20** — simple moving averages of Close price
+* **Модель**: Panoptic FPN с backbone ResNet-101
+* **Предобучена на**: COCO dataset (через Detectron2)
+* **Входные данные**: изображение и видео
+* **Результат**: карта паноптической сегментации с подписями и цветами
 
 
 
-## Tasks
 
-* Load and visualize historical price data
-* Engineer features and technical indicators
-* Scale and prepare the dataset
-* Build an LSTM-based forecasting model
-* Train and evaluate the model
-* Predict the next day’s closing price
+# Содержание проекта
 
+### 1. Установка библиотек и подключение Google Drive
 
+### 2. Загрузка модели Detectron2 и настройка конфигурации
 
-# Table of Contents
+### 3. Обработка одиночного изображения
 
-### 1. Data loading and visualization
+### 4. Паноптическая сегментация видео
 
-### 2. Feature engineering
-
-### 3. Data scaling and sequence generation
-
-### 4. Model building with LSTM
-
-### 5. Training and validation
+### 5. Визуализация результата в ноутбуке
 
 ### 6. Evaluation and plotting predictions
 
