@@ -10,6 +10,7 @@ Name|Description | Stack
 -----------|:-------:|:--------:
 [Forecast of Aftershocks](https://github.com/Alexloroo/my_projects/tree/d057149e491402af5ced367c7e6834da61ca7d5e/Forecast-of-aftershock) | Using the data of the first earthquake shock, it is necessary to calculate the location, time and strength of the first aftershock. This project took the 5th place in the "KBTU Data Camp 2025". | Pandas, Tensorflow, Numpy, Matpotlib
 [Math Score Prediction](https://github.com/Alexloroo/my_projects/tree/main/Score-prediction) | 	Predicts students' final math scores using demographic and educational data. Includes preprocessing, normalization, a deep learning model, and evaluation via plots. | Pandas, TensorFlow, NumPy, Matplotlib
+[Panaoptic Segmentation](https://github.com/Alexloroo/my_projects/tree/main/Panoptic-Segmentation) | My goal was to practice processing photo and video images, and dividing frames into objects. This practice is usually used to control unmanned devices. | Detectron2, Cv2, Matplotlib, Tqdm, Os, Torch, Moviepy, IPython.display   
 [Microsoft price prediction](https://github.com/Alexloroo/my_projects/tree/main/Microsoft-price-prediction) | Microsoft stock price prediction. This project is designed to practice seasonality and cycles. | Pandas, Sklearn, TensorFlow, NumPy, Matplotlib
 
 ## Tools
