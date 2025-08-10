@@ -1,23 +1,26 @@
-![](https://images.unsplash.com/photo-1561494653-744c43aed0c1?q=80&w=2694&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+## Введение
 
-## Introduction
-Hi! In this repository, I will present my pet projects and projects from competitions.
+Привет! В этом репозитории я представлю свои пет-проекты и проекты с соревнований.
 
-All the data in these projects is either from the competitions that allowed me to use the data or from open sources.
+Все данные в этих проектах либо из соревнований, которые разрешили их использование, либо из открытых источников.
 
-# Projects
-Name|Description | Stack
------------|:-------:|:--------:
-[Forecast of Aftershocks](https://github.com/Alexloroo/my_projects/tree/d057149e491402af5ced367c7e6834da61ca7d5e/Forecast-of-aftershock) | Using the data of the first earthquake shock, it is necessary to calculate the location, time and strength of the first aftershock. This project took the 5th place in the "KBTU Data Camp 2025". | Pandas, Tensorflow, Numpy, Matpotlib
-[Math Score Prediction](https://github.com/Alexloroo/my_projects/tree/main/Score-prediction) | 	Predicts students' final math scores using demographic and educational data. Includes preprocessing, normalization, a deep learning model, and evaluation via plots. | Pandas, TensorFlow, NumPy, Matplotlib
-[Panaoptic Segmentation](https://github.com/Alexloroo/my_projects/tree/main/Panoptic-Segmentation) | My goal was to practice processing photo and video images, and dividing frames into objects. This practice is usually used to control unmanned devices. | Detectron2, Cv2, Matplotlib, Tqdm, Os, Torch, Moviepy, IPython.display   
-[Microsoft price prediction](https://github.com/Alexloroo/my_projects/tree/main/Microsoft-price-prediction) | Microsoft stock price prediction. This project is designed to practice seasonality and cycles. | Pandas, Sklearn, TensorFlow, NumPy, Matplotlib
+# Проекты
 
-## Tools
-The main tools that I used in the project:
-* The Python programming language;
-  + machine learning library  [sklearn](https://www.sklearn.org/);
-  + libraries for deep learning [tensorflow](https://www.tensorflow.org/), [pytorch](https://pytorch.org/);
-  + libraries for data analysis and processing [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/),  [SciPy](https://scipy.org/);
-  + library for data visualization [Matplotlib](https://matplotlib.org/);
-* programming environments [Jupyter Notebook](https://jupyter.org/), [Visual Studio](https://code.visualstudio.com/);
+| Название                                                                                                                                 |                                                                                              Описание                                                                                             |                                  Стек                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| [Forecast of Aftershocks](https://github.com/Alexloroo/my_projects/tree/d057149e491402af5ced367c7e6834da61ca7d5e/Forecast-of-aftershock) |             Используя данные о первом толчке землетрясения, необходимо вычислить местоположение, время и силу первого афтершока. Этот проект занял 5-е место в "KBTU Data Camp 2025".             |                  Pandas, Tensorflow, Numpy, Matpotlib                  |
+| [Math Score Prediction](https://github.com/Alexloroo/my_projects/tree/main/Score-prediction)                                             | Прогнозирует итоговые оценки студентов по математике, используя демографические и образовательные данные. Включает предобработку, нормализацию, модель глубокого обучения и оценку через графики. |                  Pandas, TensorFlow, NumPy, Matplotlib                 |
+| [Panaoptic Segmentation](https://github.com/Alexloroo/my_projects/tree/main/Panoptic-Segmentation)                                       |          Моя цель заключалась в практике обработки фото- и видеоизображений и разделения кадров на объекты. Такая практика обычно используется для управления беспилотными устройствами.          | Detectron2, Cv2, Matplotlib, Tqdm, Os, Torch, Moviepy, IPython.display |
+| [Microsoft price prediction](https://github.com/Alexloroo/my_projects/tree/main/Microsoft-price-prediction)                              |                                            Прогнозирование цены акций Microsoft. Этот проект предназначен для практики работы с сезонностью и циклами.                                            |             Pandas, Sklearn, TensorFlow, NumPy, Matplotlib             |
+
+## Инструменты
+
+Основные инструменты, которые я использовал в проекте:
+
+* язык программирования Python;
+
+  * библиотека машинного обучения  [sklearn](https://www.sklearn.org/);
+  * библиотеки для глубокого обучения [tensorflow](https://www.tensorflow.org/), [pytorch](https://pytorch.org/);
+  * библиотеки для анализа и обработки данных [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/),  [SciPy](https://scipy.org/);
+  * библиотека для визуализации данных [Matplotlib](https://matplotlib.org/);
+* среды программирования [Jupyter Notebook](https://jupyter.org/), [Visual Studio](https://code.visualstudio.com/);
