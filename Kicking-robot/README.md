@@ -1,4 +1,4 @@
-![](https://cdn.leonardo.ai/users/4708e59d-6e7f-4384-9fdd-1378d72f575f/generations/c134897f-af68-4ec8-a410-aeaf58097905/segments/3:4:1/Flux_Dev_a_stunning_illustration_of_A_dramatic_and_realistic_i_2.jpg)
+![](Kicking-robot\img1.jpeg)  ![](Kicking-robot\img2.jpeg)
 # Описание проекта
 
 Этот проект реализует **удалённое управление роботом** на базе ESP32 через Web-интерфейс. Пользователь подключается к Wi-Fi и управляет движением колёс с помощью сенсорной веб-панели, отображаемой на телефоне. Этот проект участвовал в **IT Fest 2024** и занял **3** место.
