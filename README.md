@@ -13,6 +13,7 @@
 | [Panaoptic Segmentation](https://github.com/Alexloroo/my_projects/tree/main/Panoptic-Segmentation)                                       |                                                              Моя цель заключалась в практике обработки фото- и видеоизображений и разделения кадров на объекты. Такая практика обычно используется для управления беспилотными устройствами.                                                             |  Detectron2, Cv2, Matplotlib, Tqdm, Os, Torch, Moviepy, IPython.display  |
 | [Microsoft price prediction](https://github.com/Alexloroo/my_projects/tree/main/Microsoft-price-prediction)                              |                                                                                                Прогнозирование цены акций Microsoft. Этот проект предназначен для практики работы с сезонностью и циклами.                                                                                               |              Pandas, Sklearn, TensorFlow, NumPy, Matplotlib              |
 | [Kicking robot](https://github.com/Alexloroo/my_projects/tree/projects_ru/Kicking-robot)°                               | Удалённое управление мобильным роботом на базе ESP32 через веб-интерфейс.  Включает сервер на ESP32, HTML/CSS/JS интерфейс и обработчики команд. Прокт занял **3** место на **IT Fest 2024** в Алмате | ESP32 (Arduino), WiFi.h, ESP32Servo, WebServer, HTML/CSS/JS, Arduino |
+
 **° - проекты участвовавшие в конкурсах и соревнований**
 ## Инструменты
 
