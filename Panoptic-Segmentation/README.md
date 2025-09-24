@@ -37,7 +37,3 @@
 ### 4. Паноптическая сегментация видео
 
 ### 5. Визуализация результата в ноутбуке
-
-### 6. Evaluation and plotting predictions
-
-### 7. Forecasting the next day’s Close price
