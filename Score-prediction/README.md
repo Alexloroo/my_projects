@@ -2,9 +2,9 @@
 
 # Project Description
 
-This code participated in **"KBTU Data Science Challenge 2025"** and won the **first** place.
+This code participated in **"KBTU Data Science Challenge 2025"** and won the **first** place.🎉🎉
 
-The data set was provided by the organizers and is based on real academic analytics. All data is taken from **kaggle**.
+The data set was provided by the organizers and is based on real academic analytics. All data is taken from kaggle.
 
 *Author: Alexey V.*
 
@@ -13,36 +13,9 @@ The data set was provided by the organizers and is based on real academic analyt
 
 ## Goal
 
-The goal of this project is to build a regression model that can **predict students' final math scores** based on various characteristics, including:
-
-* **Demographic data** (gender, education of parents, type of school).
-* **Academic performance** (number of study hours, attendance, previous grades)
-* **Extracurricular activities**
+The goal of this project is to build a regression model that can **predict students' final math grades** based on demographic data (gender, parent education, type of school), academic performance (number of school hours, attendance, previous grades), and extracurricular activities.
 
 The task includes preprocessing functions, normalizing data, building a model using TensorFlow/Keras, training, evaluation, and creating a CSV file with predicted estimates.
-
-
-## Columns
-
-**student\_id** — unique identifier of each student
-
-**gender** — 'Male' or 'Female'
-
-**age** — student’s age
-
-**study\_hours** — average daily study hours
-
-**attendance\_rate** — class attendance rate in %
-
-**previous\_scores** — previous academic performance
-
-**parental\_education** — level of parents' education
-
-**school\_type** — 'Public' or 'Private' school
-
-**extracurricular** — level of participation in activities
-
-**final\_math\_score** — actual target value (used only in training)
 
 
 ## Tasks
@@ -52,12 +25,3 @@ The task includes preprocessing functions, normalizing data, building a model us
 * Training a neural network regression model
 * Performance assessment and visualization
 * Predicting the test suite and exporting to CSV
-
-# Table of Contents
-
-### 1. Data download
-### 2. Visualization and data analysis
-### 3. Preparation and normalization of functions
-### 4. Model building and training
-### 5. Visual assessment of the model
-### 6. Prediction based on test data and generation of the final response

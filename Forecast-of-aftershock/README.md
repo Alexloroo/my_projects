@@ -12,12 +12,7 @@ The data was taken from there.
 # Task description
 ## Purpose
 
-My task is to predict the **first aftershock** for each major earthquake in the test set. Exactly:
-
-* **Time** : year, month, day, hour, minute, second (with milliseconds)
-* **Location** : latitude and longitude (in decimal degrees)
-* **Depth** : in kilometers
-* **Class** : energy class (proxy for the amount or release of energy)
+My task is to predict the ** first aftershock** for each major earthquake in the test set. And output the data to a csv file for the organizers.
 
 ## Columns
 **id_eq** - the unique identifier of the main earthquake
@@ -45,14 +40,7 @@ My task is to predict the **first aftershock** for each major earthquake in the 
 
 # Table of contents
 
-### 1. Uploading data
-### 2. Data Visualization
-### 3. Data preparation
-### 4. Model training
-### 5. Visualization of the model
-### 6. Prediction and preparation of the response
 
 
-
-## Map visualization in Jupyter notebook
+## Map visualization
 ![](maps.png)

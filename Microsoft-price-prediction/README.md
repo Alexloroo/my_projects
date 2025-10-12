@@ -43,20 +43,3 @@ Additional features created:
 * Train and evaluate the model
 * Predict the next day’s closing price
 
-
-
-# Table of Contents
-
-### 1. Data loading and visualization
-
-### 2. Feature engineering
-
-### 3. Data scaling and sequence generation
-
-### 4. Model building with LSTM
-
-### 5. Training and validation
-
-### 6. Evaluation and plotting predictions
-
-### 7. Forecasting the next day’s Close price
